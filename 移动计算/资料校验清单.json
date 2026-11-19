@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-19",
+  "timezone": "Asia/Shanghai",
+  "course": "移动计算",
+  "files": [
+    {
+      "path": "课件/06 移动设备.pdf",
+      "bytes": 13873713,
+      "sha256": "ed6569940e43b285db6b0d878a06abb30c34a934edc64acae47a699f321c46b7",
+      "pages": 67
+    },
+    {
+      "path": "课件/07 移动计算平台.pdf",
+      "bytes": 2449093,
+      "sha256": "4033a2a7fd8e05dd3917379fc416ba825fa3330d56550945d911e65e84cc35d7",
+      "pages": 52
+    },
+    {
+      "path": "课件/教学内容1 绪论(1).pptx",
+      "bytes": 26377775,
+      "sha256": "609c7cc4208675c487b5f5804ef3f295daf554d4d1e9359c6f261379af21f5b5",
+      "pages": 57
+    },
+    {
+      "path": "课件/教学内容2 无线通信技术.pptx",
+      "bytes": 3814603,
+      "sha256": "1045e663b813b2fa3497617cf99c023cac3d0119f5f7545acb7c8f9635bf5585",
+      "pages": 91
+    },
+    {
+      "path": "课件/教学内容3 1G-5G(1).pptx",
+      "bytes": 33523863,
+      "sha256": "e9f04985ecdd18bcabddad182940d729a186cb2394578b56bf2f926988ae4f5d",
+      "pages": 63
+    },
+    {
+      "path": "课件/教学内容4 Mobile IP.pptx",
+      "bytes": 1486133,
+      "sha256": "141862473cf3b1facaaca0eecf9dfcef28fb3292e2078bd539a1736b781508f2",
+      "pages": 68
+    },
+    {
+      "path": "课件/物联网：关键技术与应用愿景(1).pptx",
+      "bytes": 52328125,
+      "sha256": "a2ba0cb7d3ae0988fe5c11820d7d5465091b46fa3c438e039fce8bc5ec0b0361",
+      "pages": 64
+    },
+    {
+      "path": "作业与考情/原始截图/老师答疑.png",
+      "bytes": 34599,
+      "sha256": "1ac26f0d048c3a12f9887ad8268103d4e71e78b35f754655d7b0c391710262e6"
+    },
+    {
+      "path": "作业与考情/原始截图/第一次作业.jpg",
+      "bytes": 79027,
+      "sha256": "ba0ece0da5f4b8e59438addede63bdef83b8d4c0c143fe35dcf5d0868e416665"
+    },
+    {
+      "path": "作业与考情/原始截图/第二次作业.jpg",
+      "bytes": 114022,
+      "sha256": "5c9532e3e18deac58a2f0a10ef0357c56b998aa6bbf10b325c443597c42161e2"
+    }
+  ]
+}
